@@ -1,0 +1,15 @@
+C:\Users\Nyekruh\source\repos\MaskeTakip\Business\bin\Debug\net8.0\Business.deps.json
+C:\Users\Nyekruh\source\repos\MaskeTakip\Business\bin\Debug\net8.0\Business.dll
+C:\Users\Nyekruh\source\repos\MaskeTakip\Business\bin\Debug\net8.0\Business.pdb
+C:\Users\Nyekruh\source\repos\MaskeTakip\Business\bin\Debug\net8.0\Entities.dll
+C:\Users\Nyekruh\source\repos\MaskeTakip\Business\bin\Debug\net8.0\Entities.pdb
+C:\Users\Nyekruh\source\repos\MaskeTakip\Business\obj\Debug\net8.0\Business.csproj.AssemblyReference.cache
+C:\Users\Nyekruh\source\repos\MaskeTakip\Business\obj\Debug\net8.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nyekruh\source\repos\MaskeTakip\Business\obj\Debug\net8.0\Business.AssemblyInfoInputs.cache
+C:\Users\Nyekruh\source\repos\MaskeTakip\Business\obj\Debug\net8.0\Business.AssemblyInfo.cs
+C:\Users\Nyekruh\source\repos\MaskeTakip\Business\obj\Debug\net8.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\Nyekruh\source\repos\MaskeTakip\Business\obj\Debug\net8.0\Business.csproj.CopyComplete
+C:\Users\Nyekruh\source\repos\MaskeTakip\Business\obj\Debug\net8.0\Business.dll
+C:\Users\Nyekruh\source\repos\MaskeTakip\Business\obj\Debug\net8.0\refint\Business.dll
+C:\Users\Nyekruh\source\repos\MaskeTakip\Business\obj\Debug\net8.0\Business.pdb
+C:\Users\Nyekruh\source\repos\MaskeTakip\Business\obj\Debug\net8.0\ref\Business.dll
